@@ -4,7 +4,6 @@
 
 
 
-
 # 👩‍💼 Jéssica Medeiros
 
 🚀 Profissional da área **Contábil, Fiscal e BPO Financeiro**
