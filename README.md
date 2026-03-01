@@ -1,8 +1,8 @@
 # 👩‍💼 Jéssica Medeiros
 
-[<p align="center">
-  <img src="https://raw.githubusercontent.com/jessicacoelho286/jessicacoelho286/output/github-contribution-grid-snake-dark.svg" />
-</p>](https://raw.githubusercontent.com/jessicacoelho286/jessicacoelho286/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jessicacoelho286/jessicacoelho286/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 🚀 Profissional da área **Contábil, Fiscal e BPO Financeiro**
 📊 Focada em organização financeira, análise de dados e melhoria de processos
