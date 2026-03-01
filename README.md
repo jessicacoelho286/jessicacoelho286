@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jessicacoelho286/jessicacoelho286/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+
+
 # 👩‍💼 Jéssica Medeiros
 
 🚀 Profissional da área **Contábil, Fiscal e BPO Financeiro**
