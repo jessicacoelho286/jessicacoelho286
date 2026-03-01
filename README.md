@@ -1,4 +1,4 @@
-# 👩‍💼 Jéssica Coelho
+# 👩‍💼 Jéssica Medeiros
 
 🚀 Profissional da área **Contábil, Fiscal e BPO Financeiro**
 📊 Focada em organização financeira, análise de dados e melhoria de processos
