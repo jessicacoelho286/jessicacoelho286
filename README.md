@@ -66,7 +66,7 @@ Tenho experiência com:
 
 ## 📫 Contato
 
-📎 LinkedIn: [*(adicione seu link)*](https://www.linkedin.com/in/jessica-coelho-de-medeiros-774b30195/)
+📎 LinkedIn: [*(adicione seu link)*] (https://www.linkedin.com/in/jessica-coelho-de-medeiros-774b30195/)
 ✉️ Email: *(adicione seu email profissional)* jessica.coelho.medeiros@gmail.com
 
 ---
