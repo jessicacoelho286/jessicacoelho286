@@ -1,76 +1,56 @@
-# 👩‍💼 Jéssica Medeiros
+<h1 align="center">Jéssica Medeiros 👩‍💼</h1>
+<h3 align="center">Contábil · Fiscal · BPO Financeiro</h3>
 
-<p align="center">
+---
+
+## 📊 Performance
+
   <img src="https://raw.githubusercontent.com/jessicacoelho286/jessicacoelho286/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
 
-🚀 Profissional da área **Contábil, Fiscal e BPO Financeiro**
-📊 Focada em organização financeira, análise de dados e melhoria de processos
-🇧🇷 Brasil
+## ⚙️ Ferramentas & Conhecimentos
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Sankhya-0d47a1?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Conta%20Azul-1565C0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Omie-FF6600?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+</div>
 
 ---
 
-## ✨ Sobre mim
+## 📚 Em Evolução
 
-Atuo com rotinas **contábeis e fiscais**, apoiando empresas na organização financeira, cumprimento de obrigações e geração de informações estratégicas para tomada de decisão.
-
-Tenho experiência com:
-
-✔️ Rotinas fiscais e tributárias
-✔️ Conciliações financeiras
-✔️ BPO Financeiro
-✔️ Análise e controle de dados
-✔️ Apoio à gestão empresarial
-✔️ Suporte à áreas internas
-✔️ Logística e Supply
+<div align="center">
+  <img src="https://img.shields.io/badge/Automação%20de%20Processos-7B2FBE?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Análise%20de%20Dados-7B2FBE?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Melhoria%20de%20Processos-7B2FBE?style=for-the-badge&logoColor=white"/>
+</div>
 
 ---
 
-## 🛠️ Ferramentas & Conhecimentos
+## 🌐 Contato Profissional
 
-![Excel](https://img.shields.io/badge/Excel-Avançado-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![Contabilidade](https://img.shields.io/badge/Contabilidade-Profissional-4CAF50?style=for-the-badge)
-![Fiscal](https://img.shields.io/badge/Área%20Fiscal-Experiência-1E88E5?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-Análise%20de%20Dados-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![BPO Financeiro](https://img.shields.io/badge/BPO%20Financeiro-Gestão-F57C00?style=for-the-badge)
-
----
-
-## 📈 Projetos em Destaque
-
-🔹 Controles financeiros em Excel
-🔹 Modelos de organização fiscal
-🔹 Dashboards financeiros
-🔹 Estudos e automações de processos administrativos
-
-*(Em constante atualização 🚧)*
+<div align="center">
+  <a href="mailto:jessica.coelho.medeiros@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jessica-coelho-de-medeiros-774b30195/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 💡 Sobre mim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessicacoelho286\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacoelho286\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🌱 Atualmente estudando
-
-📚 Automação de processos
-📚 Análise de dados aplicada à área financeira
-📚 Melhoria de processos empresariais
-
----
-
-## 📫 Contato
-
-📎 LinkedIn: https://www.linkedin.com/in/jessica-coelho-de-medeiros-774b30195/
-✉️ Email: jessica.coelho.medeiros@gmail.com
-
----
-
-⭐ *Este perfil reflete minha evolução profissional e projetos voltados à área financeira, contábil e análise de dados.*
-
-
+- 💼 Profissional da área **Contábil, Fiscal e BPO Financeiro**
+- ✔️ Rotinas fiscais, tributárias e conciliações financeiras
+- ✔️ Apoio à gestão empresarial e análise de dados
+- ✔️ Logística, Supply e suporte a áreas internas
+- 📈 Focada em organização, processos e decisões estratégicas
+- 🎯 Meta: automatizar e otimizar processos financeiros com dados
